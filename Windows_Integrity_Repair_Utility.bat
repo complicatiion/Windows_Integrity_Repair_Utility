@@ -20,7 +20,7 @@ if not exist "%REPORTROOT%" md "%REPORTROOT%" >nul 2>&1
 :MAIN
 cls
 echo ============================================================
-echo Windows Integrity and Repair Utility
+echo Windows Integrity and Repair Utility by complicatiion
 echo ============================================================
 echo.
 if "%ISADMIN%"=="1" (
